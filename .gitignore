@@ -15,3 +15,6 @@
 *.js
 *.vs
 /**/*.js
+*.out
+*.txt
+*.cache

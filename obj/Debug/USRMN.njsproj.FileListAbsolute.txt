@@ -1,2 +1,4 @@
 D:\PROJ\What\USRMN\USRMN\obj\Debug\USRMN.njsproj.CoreCompileInputs.cache
 D:\PROJ\What\USRMN\USRMN\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Repos\USRMN\obj\Debug\USRMN.njsproj.CoreCompileInputs.cache
+D:\Repos\USRMN\bin\Microsoft.NodejsTools.WebRole.dll
